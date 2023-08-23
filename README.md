@@ -2,6 +2,8 @@
 
 ## IchigoJamのロゴ
 
+![IchigoJam logo](logo_ichigojam_color.png)
+
 IchigoJamのロゴはクリエティブ・コモンズ・表示(CC BY)によるオープンデータです。ご自由にお使いください。
 
 IchigoJamはjig.jpの登録商標なので、「IchigoJam(R)jig.jp」などと表記いただけると幸いです。
